@@ -2,5 +2,5 @@ Name: Funsho Akingbade
 Matric Number: 23CH034171
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://breastcancer-project-funsho-akingbade.onrender.com
+Live URL: https://breastcancer-project-funsho-akingbade.onrender.com/
 GitHub Repository Link: https://github.com/Funsho-Akingbade/BreastCancer_Project_Funsho_Akingbade_23CH034171.git
